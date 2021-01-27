@@ -9,4 +9,5 @@ main {
     margin: auto;
     box-shadow: 3px 3px 5px #171717;
     border-radius: 10px;
+    width: 500px;
 }

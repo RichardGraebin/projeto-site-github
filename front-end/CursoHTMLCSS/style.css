@@ -5,13 +5,13 @@ body {
 
 main {
     background-color: white;
-    padding: 10px;
-    margin: auto;
     box-shadow: 3px 3px 5px #171717;
     border-radius: 10px;
-    width: 500px;
+    width: 560px;
+    margin: auto;
+    padding: 10px;
 }
 
-#imgright {
-    float: right;
+iframe {
+    align-content: center;
 }
